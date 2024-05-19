@@ -23,4 +23,4 @@ The Car Price Recommendation App is built using Python and Streamlit, a powerful
 - **Machine Learning Powered**: Utilizes a robust machine learning model for predictions.
 
 
-![Alt text](screenshot.png)
+<img width="844" alt="Screenshot 2024-05-18 at 10 43 47 PM" src="https://github.com/axhoang/Car_Price_Model/assets/117322132/bf3921e3-3a50-4bb0-9e98-0fbbf0dad0cd">
